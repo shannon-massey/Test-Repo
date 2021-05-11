@@ -1,1 +1,4 @@
 Test text file
+
+Adding additional text in the local git repo
+
