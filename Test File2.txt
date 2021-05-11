@@ -3,3 +3,5 @@ Test text file
 Adding additional text in the local git repo
 
 Adding additional text in the remote git repo in the "remote-branch" branch
+
+Adding additional text in the local git repo in the "remote-branch" branch
